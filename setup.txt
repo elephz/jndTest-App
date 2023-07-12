@@ -1,0 +1,4 @@
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material react-pro-sidebar
+
+
+npm i react-redux @reduxjs/toolkit redux-persist formik yup
